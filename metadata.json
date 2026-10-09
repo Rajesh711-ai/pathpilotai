@@ -1,0 +1,6 @@
+{
+  "name": "PathPilot AI",
+  "description": "NEXORA TECH PathPilot AI - Personalized Student Life & Career Guidance Platform with Adaptive AI Planner",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
