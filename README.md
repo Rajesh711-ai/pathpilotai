@@ -21,10 +21,23 @@ Unlike traditional static todo lists or calendar apps, PathPilot AI features a *
 
 ## 📱 Live Web Preview & Public Access
 
-- **Public Shared App URL:**  
+- **Public Shared App URL (Active Now):**  
   [https://ais-pre-map4oaarqgiyf63awjlugz-270839861885.asia-east1.run.app](https://ais-pre-map4oaarqgiyf63awjlugz-270839861885.asia-east1.run.app)
+- **Direct Android APK Download:**  
+  [https://ais-pre-map4oaarqgiyf63awjlugz-270839861885.asia-east1.run.app/download/app-debug.apk](https://ais-pre-map4oaarqgiyf63awjlugz-270839861885.asia-east1.run.app/download/app-debug.apk)
+- **GitHub Pages Website (When Pushed):**  
+  `https://<YOUR_GITHUB_USERNAME>.github.io/pathpilot-ai/`
 
-*(Open the link above in any browser to test the interactive streaming Android emulator.)*
+*(Anyone opening the public link above in a desktop or mobile browser can interact with the app in real time and test the notification bar simulator).*
+
+---
+
+## 🐙 Public GitHub Publishing Guide
+
+Want to publish this codebase to GitHub so anyone can see it? See **[GITHUB_PUBLISHING.md](GITHUB_PUBLISHING.md)** for a 1-minute step-by-step walkthrough:
+1. In the AI Studio editor settings menu (`⋮`), click **"Push to GitHub"**.
+2. Select your GitHub username and make visibility **Public**.
+3. GitHub Actions will automatically deploy the **GitHub Pages website** and build new Android APK releases!
 
 ---
 
